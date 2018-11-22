@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TPDM_U3_Ejercicio_1_Edgar_Efren_Pozas_Bogarin</string>
+    <string-array name="restaurante">
+        <item id="restaurante_levantar">Levantar pedido</item>
+        <item id="restaurante_cobrar">Cobrar</item>
+        <item id="restaurante_exportar">Exportar CSV</item>
+        <item id="restaurante_salir">Salir</item>
+    </string-array>
+</resources>

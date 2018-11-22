@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242727193824",
+    "firebase_url": "https://tpdmu3base3-799e8.firebaseio.com",
+    "project_id": "tpdmu3base3-799e8",
+    "storage_bucket": "tpdmu3base3-799e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242727193824:android:f0e8aff8cff834b7",
+        "android_client_info": {
+          "package_name": "com.example.edgar.tpdm_u3_ejercicio_1_edgar_efren_pozas_bogarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242727193824-v647i2pltdjc1042ohvb462n7v2n78i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_LxJ2zTCMEURS7h7TaPbHJnKYNBFgpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
